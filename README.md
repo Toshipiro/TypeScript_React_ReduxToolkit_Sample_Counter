@@ -12,7 +12,7 @@ This application has two components.
 https://redux-toolkit.js.org/tutorials/overview
 
 
-# Momdule Versions
+# Module Versions
     
 * typescript 4.1.2
 * react 17.0.2
