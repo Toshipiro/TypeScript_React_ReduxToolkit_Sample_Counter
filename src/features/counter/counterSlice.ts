@@ -23,6 +23,7 @@ const counterSlice = createSlice({
   reducers: {
     /** Add value to the amount in store. */
     incrementByAmount: (state: CounterState, action: PayloadAction<number>) => {
+      /** Immutable updates with Immer. */
       state.value = state.value + action.payload;
     },
     /** Add new sction types below. */
