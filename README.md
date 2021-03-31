@@ -4,8 +4,8 @@ This simple application demonstrates how to use Redux toolkit with TypeScript.
 
 This application has two components.
 
-* CounterInput component : has an input field to update state of Redux store.
-* Counter component : displays the state of Redux store.
+* CounterInput component has an input field to update state of Redux store.
+* Counter component displays the state of Redux store.
 
 
 # Redux-toolkit Tutorials
@@ -20,9 +20,3 @@ https://redux-toolkit.js.org/tutorials/overview
 * react-redux 7.2.3
 * @types/react-redux 7.1.16
 * @reduxjs/toolkit 1.5.1
-
-
-
-
-
-
