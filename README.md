@@ -7,3 +7,7 @@ This application has two components.
 CounterInput component has an input field to update state of Redux store.
 
 Counter component displays the state of Redux store.
+
+
+# redux-toolkit tutorials
+https://redux-toolkit.js.org/tutorials/overview
