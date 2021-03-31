@@ -5,7 +5,7 @@ import { incrementByAmount } from './counterSlice';
 
 /**
  * 
- * @returns This component shows an inpit field to update amount in store.
+ * @returns This component shows an inpt field to update amount in store.
  */
 export const CounterInput: FC = () => {
   /** Root dispach */
